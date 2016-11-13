@@ -1,15 +1,14 @@
 # README #
 
-Ejercicio de fin del curso de iniciación en Unity 3D. Algunos assets fueron suministrados. El comportamiento de los Drones NPC (movimiento, apuntado y disparo), controles de disparo del player, NavMesh del terreno, gestión general del juego y de la vida de los jugadores y comportamiento general del juego, interface de usuario, así como el texturizado y aplicación del modelado de los drones ha sido realizado por mi.
+Ejercicio sencillo de iniciación con Unity 3D para alumnos de 14 años aprox. Emplea físicas sencillas del propio motor e incluye un par de scripts comentados para el manejo de inputs en ejes, activación de trigges y manejo de escenas.
 
 ## Objetivo del juego ##
 
-El objetivo del juego es eliminar a los otros jugadores. La partida termina cuando solo queda un jugador en la arena, que será declarado ganador.
-Los drones se mueven en rutas aleatorias que se renuevan cada 4 segundos y atacarán al enemigo más cercano en un radio de 10 metros cada 2 segundos.
+Llevar la pelota hasta la meta a traves de un laberinto inclinando el propio laberinto en 2 ejes.
 
 ## Controles ##
 
-El movimiento del drone se controla con las flechas de los cursores, y el disparo con A,S,D y W dependiendo de la dirección en que se desee disparar.
+La inclinación del laberinto se controla con cursores, teclas ASDW o un mando de juego conectado al equipo. Tambien podría controlarse con inclinaciones de dispositivo si se compila para dispositivos móviles.
 
 ## Instrucciones de uso ##
 
@@ -19,7 +18,7 @@ Ejecutar el archivo 'Ejecutable Laberinto.exe' contenido en la carpeta 'Ejecutab
 
 ### Para edición ###
 
-Abrir la carpeta 'LAberintoUnity3D'  contenida en la carpeta 'Proyecto Laberinto' como proyecto de Unity.
+Abrir la carpeta 'LaberintoUnity3D'  contenida en la carpeta 'Proyecto Laberinto' como proyecto de Unity.
 
 ## Assets ##
 
