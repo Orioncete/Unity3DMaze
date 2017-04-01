@@ -26,4 +26,4 @@ Abrir la carpeta 'LaberintoUnity3D'  contenida en la carpeta 'Proyecto Laberinto
 
 ## Who do I talk to? ##
 
-* uliaoth@htomail.com
+* uliaoth@hotmail.com
